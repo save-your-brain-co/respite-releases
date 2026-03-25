@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <channel>
-    <title>Respite</title>
-    <description>Forced screen break app for macOS</description>
-    <language>en</language>
-  </channel>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Respite Updates</title>
+        <link>https://github.com/save-your-brain-co/respite-releases</link>
+        <description>Respite app updates</description>
+        <language>en</language>
+        <item>
+            <title>Version 0.0.5</title>
+            <pubDate>Tue, 25 Mar 2026 15:45:00 +0000</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/save-your-brain-co/respite-releases/releases/download/v0.0.5/Respite-0.0.5.dmg"
+                length="1962916"
+                type="application/octet-stream"
+                sparkle:edSignature="P4CbtLR1I+GiMiNwLQqCRlOBSECwkc8VpkW6kxT1HzGe2gKcdURPzxtnOJ3XoLnzkUjaSkXGHF0+RfGKXoXoAA=="
+            />
+        </item>
+    </channel>
 </rss>
