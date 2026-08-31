@@ -70,5 +70,18 @@
                 sparkle:edSignature="zPdb49kSMJN7HSNsTWHoaK8p3CH3PQznXYoQESfxfZ7WeBfl5qPoMwGJk4QXbhWaAZ4luabhtm91fS6G2OrcDA=="
             />
         </item>
+        <item>
+            <title>Version 0.0.11</title>
+            <pubDate>Mon, 31 Aug 2026 20:18:54 +0000</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.0.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/save-your-brain-co/respite-releases/releases/download/v0.0.11/Respite-0.0.11.dmg"
+                length="3180672"
+                type="application/octet-stream"
+                sparkle:edSignature="FDgRmPFsnymswAN44L1yDf+dNkUWfX6k3CZjo6jGkt50qZ5E1qsM0vCLf6IqhPztEw/0ITVm9cOpuIrcPhclAg=="
+            />
+        </item>
     </channel>
 </rss>
